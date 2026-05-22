@@ -1,7 +1,8 @@
 # About the Project
 
 ## Work flow diagram
-<img width="1536" height="848" alt="workflow" src="https://github.com/user-attachments/assets/6f045436-ca9d-4fae-a51a-1edf6505c72e" />
+<img width="1536" height="772" alt="workflow" src="https://github.com/user-attachments/assets/9fe9ad40-363b-47db-b3b6-a3e52ff423eb" />
+
 
 
 ## Description of project
