@@ -1,8 +1,34 @@
 # About the Project
 
 ## Work flow diagram
+<img width="1536" height="848" alt="workflow" src="https://github.com/user-attachments/assets/6f045436-ca9d-4fae-a51a-1edf6505c72e" />
+
 
 ## Description of project
+This project is a machine learning–based stock market analysis and prediction system developed using Python, TensorFlow, and LSTM (Long Short-Term Memory) neural networks. The project focuses on analyzing historical stock market data of major technology companies such as Apple, Google, Microsoft, and Amazon to identify trends, risks, correlations, and future stock price movements.
+
+## Features
+* Real-time stock data collection using Yahoo Finance API
+* Historical stock price visualization
+* Moving Average analysis (10-day, 20-day, 50-day)
+* Daily return and risk analysis
+* Correlation analysis between multiple tech stocks
+* Deep Learning–based stock price prediction using LSTM
+* Buy/Sell signal generation based on predicted prices
+* Portfolio growth simulation and profit calculation
+* Data visualization using Matplotlib and Seaborn
+
+## Technologies Used
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* TensorFlow 
+
+## Model Used
+The project uses an LSTM (Long Short-Term Memory) neural network, which is highly effective for time-series forecasting problems like stock market prediction. The model learns patterns from historical stock prices and predicts future closing prices.
 
 
 ## Dataset
